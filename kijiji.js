@@ -88,6 +88,7 @@ for (var page = 1; page < 15; page++) {
             temp_infos.attributes = attributes;
             titles[checksum(title)] = temp_infos;
           }
+        delete attributes.streetAddress; // we remove the plain text address
         }
       }
     }
