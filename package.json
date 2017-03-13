@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tpoisot/kijiji_mtl_rent#readme",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "crypto": "0.0.3",
     "sync-request": "^4.0.1"
   }
