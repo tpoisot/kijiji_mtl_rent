@@ -1,0 +1,23 @@
+{
+  "name": "kijiji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kijiji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpoisot/kijiji_mtl_rent.git"
+  },
+  "author": "Timothée Poisot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpoisot/kijiji_mtl_rent/issues"
+  },
+  "homepage": "https://github.com/tpoisot/kijiji_mtl_rent#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "sync-request": "^4.0.1"
+  }
+}
