@@ -28,16 +28,14 @@ function read_ad(obj){
   td.each(function(i, c){
     if(c.children[0].data) {
       var content = c.children[0].data.replace(/\n/, '').replace(/^[ ]+/, '');
-    } else {
-      var content = c.children[0].children[0].children[0].children[0].data.replace(",",".").replace(/[  $$]/g,"");
     }
     TDs.push(content);
   })
-  TDs = TDs.filter(Boolean)
+  TDs[1] = '0.00'; // price placeholder
+  TDs.splice(3, 1);
   var attributes = {};
   var lookUp = {
     postedOn: THs.indexOf("Date de l\'affichage"),
-    monthlyRent: THs.indexOf("Prix"),
     streetAddress: THs.indexOf("Adresse"),
     numberOfBathrooms: THs.indexOf("Salles de bain (nb)"),
     rentedBy: THs.indexOf("À louer par"),
@@ -50,6 +48,7 @@ function read_ad(obj){
       attributes[tKey] = TDs[lookUp[tKey]];
     }
   }
+  attributes.monthlyRent = $("*[itemprop = 'price']").get(0).children[0].children[0].data.replace(",",".").replace(/[  $$]/g,"");
   return(attributes);
 }
 
