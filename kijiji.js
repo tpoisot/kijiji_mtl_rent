@@ -59,7 +59,7 @@ var front_page_suffix = "c37l1700281?ad=offering"
 
 var titles = {}; //require("./kijiji.json");
 
-for (var page = 1; page < 15; page++) {
+for (var page = 1; page < 50; page++) {
   console.log("Page " + page.toString());
   var page_url = front_page_prefix + "/page-" + page.toString() + "/" + front_page_suffix;
   var page_content = request('GET', page_url);
