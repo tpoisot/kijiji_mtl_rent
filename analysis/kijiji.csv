@@ -3,7 +3,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 15-mars-17,1 salle de bain,Professionnel,Non,Oui,580,3,H1K,3E9,H1
 15-mars-17,1 salle de bain,Propriétaire,Non,Non,600,3,H4J,1G2,H4
 15-mars-17,1 salle de bain,Propriétaire,Non,Non,625,4,H4J,1G2,H4
-15-mars-17,1,5 salle de bain,Propriétaire,Non,Non,675,4,H1K,3X2,H1
+15-mars-17,1.5 salle de bain,Propriétaire,Non,Non,675,4,H1K,3X2,H1
 10-mars-17,1 salle de bain,Professionnel,Non,Oui,950,4,H4B,2X7,H4
 15-mars-17,1 salle de bain,Propriétaire,Oui,Non,720,2,H2G,2Z1,H2
 15-mars-17,1 salle de bain,Propriétaire,Non,Non,650,3,H3L,3L4,H3
@@ -19,7 +19,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 28-févr.-17,1 salle de bain,Professionnel,Non,Oui,770,2,H3H,1T5,H3
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,650,3,H8R,3E4,H8
 13-mars-17,1 salle de bain,Propriétaire,Oui,Non,1490,5,H3K,1W2,H3
-07-mars-17,1,5 salle de bain,Propriétaire,Non,Oui,1300,5,H4K,1P9,H4
+07-mars-17,1.5 salle de bain,Propriétaire,Non,Oui,1300,5,H4K,1P9,H4
 14-mars-17,1 salle de bain,Propriétaire,Oui,Non,940,3,H3S,1R4,H3
 14-mars-17,1 salle de bain,Propriétaire,Oui,Non,1150,4,H3S,1R4,H3
 14-mars-17,1 salle de bain,Propriétaire,Non,Oui,775,4,H4G,2W6,H4
@@ -65,10 +65,10 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 14-mars-17,1 salle de bain,Professionnel,Non,Non,1250,3,H3H,1Y3,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Non,1025,3,H3Z,1R3,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Non,895,3,H3S,2N8,H3
-14-mars-17,1,5 salle de bain,Professionnel,Non,Non,1475,4,H3G,1B9,H3
+14-mars-17,1.5 salle de bain,Professionnel,Non,Non,1475,4,H3G,1B9,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Non,875,2,H3G,1B9,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Non,1250,4,H3S,2N8,H3
-14-mars-17,2,5 salles de bain,Professionnel,Non,Non,2200,5,H3G,1B9,H3
+14-mars-17,2.5 salles de bain,Professionnel,Non,Non,2200,5,H3G,1B9,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Non,1225,3,H3G,1B9,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Non,850,2,H3W,2H1,H3
 11-mars-17,1 salle de bain,Propriétaire,Non,Non,750,3,H3N,2G7,H3
@@ -112,7 +112,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 13-mars-17,1 salle de bain,Professionnel,Non,Non,749,3,H1H,5H1,H1
 13-mars-17,1 salle de bain,Professionnel,Non,Non,849,3,H4L,5E7,H4
 14-mars-17,1 salle de bain,Professionnel,Non,Non,960,3,H2J,3T3,H2
-14-mars-17,1,5 salle de bain,Propriétaire,Non,Non,1525,4,H3C,1Z5,H3
+14-mars-17,1.5 salle de bain,Propriétaire,Non,Non,1525,4,H3C,1Z5,H3
 14-mars-17,2 salles de bain,Professionnel,Non,Oui,1299,4,H3V,1G1,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Oui,969,3,H3V,1G1,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Oui,799,1,H3V,1G1,H3
@@ -260,7 +260,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 08-mars-17,1 salle de bain,Propriétaire,Non,Non,600,3,H1T,1L1,H1
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,1650,7,H2S,1T2,H2
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,805,4,H2B,2L3,H2
-14-mars-17,1,5 salle de bain,Professionnel,Oui,Oui,1999,4,H3G,1A9,H3
+14-mars-17,1.5 salle de bain,Professionnel,Oui,Oui,1999,4,H3G,1A9,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Oui,1299,3,H3G,1A9,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Oui,1199,2,H3G,1A9,H3
 14-mars-17,1 salle de bain,Professionnel,Non,Oui,1575,3,H3G,1A9,H3
@@ -302,7 +302,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,625,4,H4J,1G2,H4
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,670,3,H4N,1L5,H4
 14-mars-17,1 salle de bain,Propriétaire,Non,Oui,1250,4,H3T,1V8,H3
-14-mars-17,1,5 salle de bain,Propriétaire,Oui,Oui,1800,4,H3X,1V8,H3
+14-mars-17,1.5 salle de bain,Propriétaire,Oui,Oui,1800,4,H3X,1V8,H3
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,700,4,H1E,6M1,H1
 14-mars-17,1 salle de bain,Propriétaire,Non,Oui,695,4,H1T,3G5,H1
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,630,3,H1E,3N2,H1
@@ -365,7 +365,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,1100,4,H4N,2Z1,H4
 14-mars-17,1 salle de bain,Propriétaire,Non,Oui,740,4,H8P,1X1,H8
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,640,4,H1A,2S5,H1
-14-mars-17,1,5 salle de bain,Propriétaire,Non,Non,675,4,H1K,3X2,H1
+14-mars-17,1.5 salle de bain,Propriétaire,Non,Non,675,4,H1K,3X2,H1
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,1200,4,H2L,1M4,H2
 14-mars-17,1 salle de bain,Professionnel,Non,Oui,1150,3,H3V,1G8,H3
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,775,4,H2K,3C3,H2
@@ -383,7 +383,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,500,3,H4X,2G7,H4
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,700,3,H3S,1T5,H3
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,800,3,H1H,1E5,H1
-14-mars-17,1,5 salle de bain,Propriétaire,Non,Non,1140,4,H1L,5M3,H1
+14-mars-17,1.5 salle de bain,Propriétaire,Non,Non,1140,4,H1L,5M3,H1
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,840,5,H1G,5N7,H1
 14-mars-17,2 salles de bain,Propriétaire,Non,Non,1400,4,H1M,3V3,H1
 14-mars-17,1 salle de bain,Propriétaire,Oui,Oui,750,4,H2G,2L8,H2
@@ -396,7 +396,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 14-mars-17,1 salle de bain,Propriétaire,Oui,Non,1300,3,H3G,0A6,H3
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,1065,3,H2J,1W4,H2
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,876,4,H3T,1H8,H3
-14-mars-17,1,5 salle de bain,Propriétaire,Non,Non,875,5,H1N,2R4,H1
+14-mars-17,1.5 salle de bain,Propriétaire,Non,Non,875,5,H1N,2R4,H1
 14-mars-17,1 salle de bain,Propriétaire,Oui,Non,540,3,H8N,1R5,H8
 14-mars-17,1 salle de bain,Propriétaire,Non,Oui,1155,3,H2V,1Z8,H2
 14-mars-17,1 salle de bain,Propriétaire,Non,Non,540,1,H3S,1J1,H3
@@ -418,7 +418,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 14-mars-17,1 salle de bain,Propriétaire,Non,Oui,830,5,H1B,2Z9,H1
 22-févr.-17,1 salle de bain,Professionnel,Non,Oui,1115,5,H4E,3S6,H4
 13-mars-17,1 salle de bain,Professionnel,Non,Non,515,1,H2G,1X3,H2
-14-mars-17,1,5 salle de bain,Propriétaire,Oui,Non,800,2,H2W,1R1,H2
+14-mars-17,1.5 salle de bain,Propriétaire,Oui,Non,800,2,H2W,1R1,H2
 14-mars-17,2,5 salles de bain,Propriétaire,Non,Non,2000,6,H2L,2V6,H2
 13-mars-17,1 salle de bain,Propriétaire,Non,Oui,550,4,H8R,1G7,H8
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,875,4,H2J,3J6,H2
@@ -429,7 +429,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 13-mars-17,1 salle de bain,Propriétaire,Oui,Non,730,2,H2L,3A9,H2
 13-mars-17,1 salle de bain,Propriétaire,Oui,Oui,650,4,H1L,3B1,H1
 13-mars-17,2 salles de bain,Propriétaire,Non,Non,1600,5,H2G,2C7,H2
-13-mars-17,1,5 salle de bain,Propriétaire,Non,Non,625,3,H8P,3E7,H8
+13-mars-17,1.5 salle de bain,Propriétaire,Non,Non,625,3,H8P,3E7,H8
 13-mars-17,1 salle de bain,Propriétaire,Oui,Non,725,4,H4J,1J6,H4
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,560,3,H1Z,2Y6,H1
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,900,4,H1V,1X3,H1
@@ -474,7 +474,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 13-mars-17,1 salle de bain,Propriétaire,Non,Oui,850,4,H8R,1G7,H8
 13-mars-17,1 salle de bain,Professionnel,Oui,Non,570,1,H4A,2B5,H4
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,550,4,H1G,3L5,H1
-13-mars-17,1,5 salle de bain,Propriétaire,Non,Non,1650,6,H3W,2M6,H3
+13-mars-17,1.5 salle de bain,Propriétaire,Non,Non,1650,6,H3W,2M6,H3
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,1350,4,H4E,4L3,H4
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,1500,5,H1T,2R3,H1
 13-mars-17,2 salles de bain,Propriétaire,Non,Non,2250,5,H3E,1L3,H3
@@ -511,7 +511,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,1420,5,H2L,3G3,H2
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,665,3,H4E,3Z1,H4
 13-mars-17,1 salle de bain,Propriétaire,Oui,Oui,1100,3,H5L,0A5,H5
-13-mars-17,1,5 salle de bain,Propriétaire,Non,Non,1325,5,H1K,1H7,H1
+13-mars-17,1.5 salle de bain,Propriétaire,Non,Non,1325,5,H1K,1H7,H1
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,650,3,H1B,5A1,H1
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,925,5,H4R,1A1,H4
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,735,4,H1E,5K8,H1
@@ -568,7 +568,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 16-mars-17,1 salle de bain,Professionnel,Oui,Non,1095,1,H2W,2E7,H2
 15-mars-17,1 salle de bain,Professionnel,Oui,Non,1395,3,H2W,2E7,H2
 16-mars-17,1 salle de bain,Professionnel,Non,Non,690,4,H1K,2M4,H1
-14-mars-17,1,5 salle de bain,Propriétaire,Non,Non,705,3,H1H,5M3,H1
+14-mars-17,1.5 salle de bain,Propriétaire,Non,Non,705,3,H1H,5M3,H1
 14-mars-17,1 salle de bain,Professionnel,Oui,Non,610,3,H2L,3Y8,H2
 15-mars-17,1 salle de bain,Propriétaire,Oui,Non,490,1,H3X,2J4,H3
 15-mars-17,1 salle de bain,Propriétaire,Non,Oui,870,4,H1A,0A2,H1
@@ -648,7 +648,7 @@ postedOn,numberOfBathrooms,rentedBy,isFurnished,petsAreAllowed,monthlyRent,unitS
 13-mars-17,1 salle de bain,Propriétaire,Non,Non,1500,6,H3X,2P7,H3
 16-mars-17,1 salle de bain,Professionnel,Non,Non,950,3,H4W,2Y1,H4
 16-mars-17,1 salle de bain,Professionnel,Non,Non,735,3,H1K,4G1,H1
-16-mars-17,1,5 salle de bain,Professionnel,Non,Non,1300,4,H1N,1K3,H1
+16-mars-17,1.5 salle de bain,Professionnel,Non,Non,1300,4,H1N,1K3,H1
 16-mars-17,1 salle de bain,Propriétaire,Oui,Oui,789,2,H3E,1C4,H3
 16-mars-17,1 salle de bain,Propriétaire,Non,Non,946,4,H2E,2Y7,H2
 16-mars-17,1 salle de bain,Propriétaire,Non,Non,995,4,H4H,1L7,H4
